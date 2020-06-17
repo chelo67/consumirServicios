@@ -5,9 +5,9 @@
     { "id": 3, "name": "Roberto Suarez", "username": "roberto", "email": "roberto@gmail.com", "image": "https://concepto.de/wp-content/uploads/2015/03/paisaje-2-e1549600987975.jpg"}
     ],
   "posts": [
-    { "id": 1, "title": "Porque adoptar animales?", "body": "piensa que es importante porque....", "userId"; 1 },
-    { "id": 2, "title": "Que pienso del calentamiento global?", "body": "deberiamos hacer algo con este problema", "userId"; 1  },
-    { "id": 3, "title": "PComo crear mi propia empresa", , "body": "antes necesitas saber que....", "userId"; 2  }
+    { "id": 1, "title": "Porque adoptar animales?", "body": "piensa que es importante porque....", "userId": 1 },
+    { "id": 2, "title": "Que pienso del calentamiento global?", "body": "deberiamos hacer algo con este problema", "userId": 1  },
+    { "id": 3, "title": "PComo crear mi propia empresa", "body": "antes necesitas saber que....", "userId": 2  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
