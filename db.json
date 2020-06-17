@@ -1,8 +1,13 @@
 {
+  "users": [
+    { "id": 1, "name": "Marcelo Acampora", "username": "marcelo", "email": "marcelo@gmail.com", "image": "https://como-funciona.com/wp-content/uploads/2019/09/c%C3%B3mo-funciona-un-paisaje-800x400.jpg"},
+    { "id": 2, "name": "Sandra Lopez", "username": "sandra", "email": "sandra@gmail.com", "image": "https://concepto.de/wp-content/uploads/2015/03/paisaje-e1549600034372.jpg"},
+    { "id": 3, "name": "Roberto Suarez", "username": "roberto", "email": "roberto@gmail.com", "image": "https://concepto.de/wp-content/uploads/2015/03/paisaje-2-e1549600987975.jpg"}
+    ],
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Porque adoptar animales?", "body": "piensa que es importante porque....", "userId"; 1 },
+    { "id": 2, "title": "Que pienso del calentamiento global?", "body": "deberiamos hacer algo con este problema", "userId"; 1  },
+    { "id": 3, "title": "PComo crear mi propia empresa", , "body": "antes necesitas saber que....", "userId"; 2  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
